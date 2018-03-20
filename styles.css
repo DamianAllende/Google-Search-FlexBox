@@ -1,0 +1,27 @@
+.container{
+  width:484px;
+  height: auto;
+}
+.box__search{
+  width:484px;
+  height: 44px;
+  border: 1px solid rgba(0, 0, 0, 0.16);
+  border-radius: 2px;
+}
+
+.button__serach{
+  margin-top:25px;
+  display: flex;
+  justify-content: center;
+}
+.peticion{
+  height: 36px;
+  border: 1px solid #F2F2F2;
+  font-weight: bold;
+  padding: 0px 16px;
+  margin: 0px 16px; 
+  background: #F2F2F2;
+}
+
+
+
